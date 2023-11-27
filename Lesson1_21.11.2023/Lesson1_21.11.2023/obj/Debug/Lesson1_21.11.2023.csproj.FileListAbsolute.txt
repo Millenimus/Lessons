@@ -1,0 +1,8 @@
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\bin\Debug\Lesson1_21.11.2023.exe.config
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\bin\Debug\Lesson1_21.11.2023.exe
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\bin\Debug\Lesson1_21.11.2023.pdb
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\obj\Debug\Lesson1_21.11.2023.csproj.AssemblyReference.cache
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\obj\Debug\Lesson1_21.11.2023.csproj.SuggestedBindingRedirects.cache
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\obj\Debug\Lesson1_21.11.2023.csproj.CoreCompileInputs.cache
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\obj\Debug\Lesson1_21.11.2023.exe
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Lesson1_21.11.2023\obj\Debug\Lesson1_21.11.2023.pdb

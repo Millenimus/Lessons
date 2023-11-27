@@ -1,0 +1,3 @@
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Практическая_1_6\obj\Debug\Практическая_1_6.csproj.AssemblyReference.cache
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Практическая_1_6\obj\Debug\Практическая_1_6.csproj.SuggestedBindingRedirects.cache
+S:\USERS\53-02v\Захаров Максим Владимирович\С#\Lesson1_21.11.2023\Практическая_1_6\obj\Debug\Практическая_1_6.csproj.CoreCompileInputs.cache
